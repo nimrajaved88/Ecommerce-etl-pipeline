@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99b0c5a6-1fd5-4402-bc38-0e61b6e2665d" name="Changes" comment="Initial project setup and ETL pipeline">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Subscription_Box_ETL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clean_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inspect_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/load_customers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/load_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/load_payments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/load_products.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/load_sales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validate_data.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3KPbpVaBLETAcv0tGb2ImgA0XGk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.clean_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inspect_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_customers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_dates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_payments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_products.executor&quot;: &quot;Run&quot;,
+    &quot;Python.load_sales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_mysql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validate_data.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NJ/OneDrive/Desktop/data project.csv&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b0c5a6-1fd5-4402-bc38-0e61b6e2665d" name="Changes" comment="" />
+      <created>1791462333050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791462333050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project setup and ETL pipeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project setup and ETL pipeline" />
+  </component>
+</project>
